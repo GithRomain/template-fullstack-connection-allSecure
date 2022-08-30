@@ -55,7 +55,7 @@ export default {
       password: "",
       login: true,
 
-      sitekey: '6LcR5r0hAAAAALIcOIBCEx3UEvYXJY8vMqJGsch3',
+      sitekey: "YOURSITEKEY",
     };
   },
   computed:{
