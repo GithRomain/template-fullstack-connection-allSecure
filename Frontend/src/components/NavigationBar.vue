@@ -329,11 +329,6 @@ export default {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-body {
-  transition: all 0.5s ease;
-  /* padding-left: var(--menu-closed-padding-left-body); */
-  padding-left: 78px;
-}
 .menu-logo {
   width: 30px;
   margin: 0 10px 0 10px;
